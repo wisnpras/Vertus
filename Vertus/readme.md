@@ -32,11 +32,14 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "todayCode": "1234", //today code of game
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "todayCode": "2344",
+  "doTasks": true,
+  "upgradeCards": false
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ -
