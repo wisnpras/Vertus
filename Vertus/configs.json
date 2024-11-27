@@ -1,6 +1,6 @@
 {
   "limit": 100,
-  "countdown": 300,
+  "countdown": 7200,
   "country_time": "en-US",
   "todayCode": "4133",
   "doTasks": true,
